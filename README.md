@@ -10,7 +10,7 @@ Features
 *    Free Live transcription
 *    Authentication support JWT tokens to prevent unknown users 
 *    Simple and intuitive UI 
-v    Get a summary of the transcription sent to mail
+  *   Get a summary of the transcription sent to mail
 
 Tech Stack used
 
